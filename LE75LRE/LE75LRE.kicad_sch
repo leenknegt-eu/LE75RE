@@ -7449,7 +7449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 85.09 81.28 0)
 			(effects
 				(font
@@ -7761,7 +7761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 165.1 121.92 0)
 			(effects
 				(font
@@ -7829,7 +7829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 165.1 142.24 0)
 			(effects
 				(font
@@ -7897,7 +7897,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 187.96 81.28 0)
 			(effects
 				(font
@@ -8472,7 +8472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 187.96 142.24 0)
 			(effects
 				(font
@@ -8540,7 +8540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 142.24 81.28 0)
 			(effects
 				(font
@@ -8672,7 +8672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 62.23 121.92 0)
 			(effects
 				(font
@@ -8740,7 +8740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 85.09 121.92 0)
 			(effects
 				(font
@@ -8984,7 +8984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 176.53 121.92 0)
 			(effects
 				(font
@@ -9275,7 +9275,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 153.67 101.6 0)
 			(effects
 				(font
@@ -9343,7 +9343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 107.95 60.96 0)
 			(effects
 				(font
@@ -10148,7 +10148,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 142.24 60.96 0)
 			(effects
 				(font
@@ -10282,7 +10282,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 62.23 81.28 0)
 			(effects
 				(font
@@ -10418,7 +10418,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 27.94 81.28 0)
 			(effects
 				(font
@@ -10486,7 +10486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 176.53 142.24 0)
 			(effects
 				(font
@@ -10952,7 +10952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 176.53 81.28 0)
 			(effects
 				(font
@@ -11020,7 +11020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 39.37 60.96 0)
 			(effects
 				(font
@@ -11176,7 +11176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 73.66 81.28 0)
 			(effects
 				(font
@@ -11398,7 +11398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 96.52 81.28 0)
 			(effects
 				(font
@@ -11621,7 +11621,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 119.38 101.6 0)
 			(effects
 				(font
@@ -11757,7 +11757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 27.94 121.92 0)
 			(effects
 				(font
@@ -11825,7 +11825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 142.24 101.6 0)
 			(effects
 				(font
@@ -12268,7 +12268,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 39.37 121.92 0)
 			(effects
 				(font
@@ -12336,7 +12336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 187.96 60.96 0)
 			(effects
 				(font
@@ -12470,7 +12470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 50.8 121.92 0)
 			(effects
 				(font
@@ -12538,7 +12538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 153.67 60.96 0)
 			(effects
 				(font
@@ -12606,7 +12606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 119.38 121.92 0)
 			(effects
 				(font
@@ -12762,7 +12762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 187.96 101.6 0)
 			(effects
 				(font
@@ -12830,7 +12830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 153.67 121.92 0)
 			(effects
 				(font
@@ -12898,7 +12898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 176.53 101.6 0)
 			(effects
 				(font
@@ -12965,7 +12965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 96.52 60.96 0)
 			(effects
 				(font
@@ -13263,7 +13263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 62.23 60.96 0)
 			(effects
 				(font
@@ -13507,7 +13507,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 73.66 60.96 0)
 			(effects
 				(font
@@ -13663,7 +13663,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 50.8 101.6 0)
 			(effects
 				(font
@@ -13731,7 +13731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 73.66 101.6 0)
 			(effects
 				(font
@@ -13975,7 +13975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 165.1 101.6 0)
 			(effects
 				(font
@@ -14131,7 +14131,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 50.8 60.96 0)
 			(effects
 				(font
@@ -14439,7 +14439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 107.95 81.28 0)
 			(effects
 				(font
@@ -14595,7 +14595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 187.96 121.92 0)
 			(effects
 				(font
@@ -14663,7 +14663,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 85.09 60.96 0)
 			(effects
 				(font
@@ -14819,7 +14819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 165.1 60.96 0)
 			(effects
 				(font
@@ -15154,7 +15154,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 62.23 142.24 0)
 			(effects
 				(font
@@ -15288,7 +15288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 130.81 101.6 0)
 			(effects
 				(font
@@ -15532,7 +15532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 62.23 101.6 0)
 			(effects
 				(font
@@ -15687,7 +15687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 96.52 101.6 0)
 			(effects
 				(font
@@ -15755,7 +15755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 130.81 81.28 0)
 			(effects
 				(font
@@ -16065,7 +16065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 119.38 60.96 0)
 			(effects
 				(font
@@ -16422,7 +16422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 73.66 142.24 0)
 			(effects
 				(font
@@ -16714,7 +16714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 130.81 142.24 0)
 			(effects
 				(font
@@ -17225,7 +17225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 142.24 142.24 0)
 			(effects
 				(font
@@ -17626,7 +17626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 153.67 81.28 0)
 			(effects
 				(font
@@ -17694,7 +17694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 73.66 121.92 0)
 			(effects
 				(font
@@ -18114,7 +18114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 50.8 142.24 0)
 			(effects
 				(font
@@ -18336,7 +18336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 96.52 121.92 0)
 			(effects
 				(font
@@ -18404,7 +18404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 176.53 60.96 0)
 			(effects
 				(font
@@ -18472,7 +18472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 107.95 101.6 0)
 			(effects
 				(font
@@ -18540,7 +18540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 119.38 81.28 0)
 			(effects
 				(font
@@ -19048,7 +19048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 27.94 60.96 0)
 			(effects
 				(font
@@ -19444,7 +19444,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 39.37 81.28 0)
 			(effects
 				(font
@@ -19512,7 +19512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 107.95 142.24 0)
 			(effects
 				(font
@@ -19668,7 +19668,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 142.24 121.92 0)
 			(effects
 				(font
@@ -19736,7 +19736,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 165.1 81.28 0)
 			(effects
 				(font
@@ -19804,7 +19804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 27.94 101.6 0)
 			(effects
 				(font
@@ -19872,7 +19872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 39.37 101.6 0)
 			(effects
 				(font
@@ -20028,7 +20028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 119.38 142.24 0)
 			(effects
 				(font
@@ -20360,7 +20360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 50.8 81.28 0)
 			(effects
 				(font
@@ -20516,7 +20516,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 85.09 101.6 0)
 			(effects
 				(font
@@ -20584,7 +20584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 130.81 60.96 0)
 			(effects
 				(font
@@ -20652,7 +20652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 27.94 142.24 0)
 			(effects
 				(font
@@ -20720,7 +20720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 39.37 142.24 0)
 			(effects
 				(font
@@ -21403,7 +21403,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 107.95 121.92 0)
 			(effects
 				(font
@@ -21540,7 +21540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 153.67 142.24 0)
 			(effects
 				(font
@@ -22224,7 +22224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 96.52 142.24 0)
 			(effects
 				(font
@@ -22292,7 +22292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 130.81 121.92 0)
 			(effects
 				(font
@@ -22360,7 +22360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 85.09 142.24 0)
 			(effects
 				(font
