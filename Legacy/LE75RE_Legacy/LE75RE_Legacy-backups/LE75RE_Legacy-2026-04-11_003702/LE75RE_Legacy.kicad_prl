@@ -60,7 +60,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "LE75RE.kicad_prl",
+    "filename": "LE75RE_Legacy.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
